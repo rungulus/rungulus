@@ -4,5 +4,5 @@ hello and welcome to your one stop shop for bad programming
 
 [go visit my site](https://rungus.zone)
 
-[follow me on bsky]([https://twitter.com/_rungus](https://bsky.app/profile/rungus.zone))
+[follow me on bsky](https://bsky.app/profile/rungus.zone)
 
